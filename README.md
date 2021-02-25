@@ -13,12 +13,12 @@ Membuat model machine learning yang dapat memprediksi minimal 80 persen customer
 
 Dataset yang digunakan
 --- 
-
 Dataset: Telecom-Customer_Churn
 
 Source : [kaggle](https://www.kaggle.com/lampubhutia/telecomcustomer-churn)
 
 ![](https://github.com/sirnaufal/Final-Project/blob/main/image/kaggle.png)
+
 Dataset yang digunakan berasal dari kaggle yang diambil dari IBM Sample Dataset. Masing-masing baris pada dataset mewakili setiap customer dan masing-masing kolom pada dataset berisi informasi tertentu dari tiap customer. Berikut merupakan penjelasan dari tiap kolom pada dataset.
 
 Feature Information:
