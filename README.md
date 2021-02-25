@@ -5,7 +5,7 @@ Nama : Muhammad Naufal Luthfi
 Deskripsi Final Project
 --- 
 Sebuah perusahaan telco sedang mendapat masalah yaitu banyak dari customernya yang churn. Oleh karenanya, perusahaan tersebut ingin mencari cara untuk menyelesaikan masalah tersebut dengan menggunakan algoritma machine learning.
-Final Project ini bertujuan untuk mengklasifikasikan apakah customer perusahaan telco tersebut akan melakukan churn atau tidak.
+Final Project ini bertujuan untuk memprediksi apakah customer perusahaan telco tersebut akan melakukan churn atau tidak.
 
 Goal Final Project
 --- 
