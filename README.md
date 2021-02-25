@@ -9,7 +9,7 @@ Final Project ini bertujuan untuk memprediksi apakah customer perusahaan telco t
 
 Goal Final Project
 --- 
-Membuat model machine learning yang dapat memprediksi minimal 80 persen customer yang akan churn.
+Membuat model machine learning yang dapat memprediksi minimal 80 persen customer yang akan churn dan membuat sebuah web aplikasi dari local host berdasarkan model yang sudah dipilih untuk memprediksi apakah seorang customer akan melakukan churn atau tidak.
 
 Dataset yang digunakan
 --- 
