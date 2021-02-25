@@ -22,7 +22,6 @@ Dataset yang digunakan
 Dataset yang digunakan berasal dari kaggle yang diambil dari IBM Sample Dataset. Masing-masing baris pada dataset mewakili setiap customer dan masing-masing kolom pada dataset berisi informasi tertentu dari tiap customer. Berikut merupakan penjelasan dari tiap kolom pada dataset.
 
 Feature Information:
-Telecom Customer Churn dataset:
 
     Age (numeric)
     Job : type of job (categorical: 'admin.', 'blue-collar', 'entrepreneur', 'housemaid', 'management', 'retired', 'self-employed', 'services', 'student', 'technician', 'unemployed', 'unknown')
