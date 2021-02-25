@@ -47,3 +47,17 @@ Informasi Fitur:
 Informasi target:
 
     Churn: apakah customer akan melakukan churn atau tidak (categorical: 'Yes', 'No')
+
+Model akhir yang digunakan adalah Random Forest Classifier
+---
+HOME PAGE
+![](https://github.com/sirnaufal/Final-Project/blob/main/image/home.png)
+
+VISUALIZATION PAGE
+![](https://github.com/sirnaufal/Final-Project/blob/main/image/visual.png)
+
+PREDICTION PAGE
+![](https://github.com/sirnaufal/Final-Project/blob/main/image/predict.png)
+
+RESULT PAGE
+![](https://github.com/sirnaufal/Final-Project/blob/main/image/result.png)
