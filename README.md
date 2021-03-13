@@ -47,6 +47,12 @@ Informasi Fitur:
 Informasi target:
 
     Churn: apakah customer akan melakukan churn atau tidak (categorical: 'Yes', 'No')
+    
+Tahapan Pengerjaan:
+1. Melakukan Data Cleaning dan Preprocessing
+2. Membuat visualisasi dataset
+3. Mencari Model Machine Learning yang paling baik
+4. Membuat dashboard menggunakan model machine learning yang sudah dipilih agar user bisa menginput data customernya dan melakukan prediksi
 
 Model akhir yang digunakan adalah Random Forest Classifier
 ---
