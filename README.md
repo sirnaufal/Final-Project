@@ -20,40 +20,40 @@ Source : [kaggle](https://www.kaggle.com/lampubhutia/telecomcustomer-churn)
 
 Dataset for this project comes from kaggle taken from the IBM Sample Dataset. Each row in the dataset represents each customer and each column in the dataset contains specific information from each customer.
 
-Informasi Fitur:
+Feature Information:
 
-    customerID: identitas tiap customer (categorical)
-    gender : jenis kelamin customer (categorical: 'Male', 'Female')
-    SeniorCitizen : apakah customer termasuk muda atau tua (numeric: 0, 1)
-    Partner : apakah customer memiliki pasangan atau tidak (categorical: 'Yes', 'No')
-    Dependents: apakah customer memiliki tanggungan atau tidak (categorical: 'Yes', 'No')
-    tenure: lama waktu dalam bulan customer berlangganan (numeric)
-    PhoneService: apakah customer menggunakan layanan telepon atau tidak (categorical: 'Yes', 'No')
-    MultipleLines: apakah customer menggunakan multiple lines atau tidak (categorical: 'Yes', 'No', 'No phone service')
-    InternetService: apakah customer menggunakan layanan internet atau tidak (categorical: 'DSL', 'Fiber optic', 'No')
-    OnlineSecurity: apakah customer menggunakan layanan online security atau tidak (categorical: 'Yes', 'No', 'No internet service')
-    OnlineBackup: apakah customer menggunakan layanan online backup atau tidak (categorical: 'Yes', 'No', 'No internet service')
-    DeviceProtection: apakah customer menggunakan layanan device protection atau tidak (categorical: 'Yes', 'No', 'No internet service')
-    TechSupport: apakah customer menggunakan layanan tech support atau tidak (categorical: 'Yes', 'No', 'No internet service')
-    StreamingTV: apakah customer menggunakan layanan streaming tv atau tidak (categorical: 'Yes', 'No', 'No internet service')
-    StreamingMovies: apakah customer menggunakan layanan streaming movie atau tidak (categorical: 'Yes', 'No', 'No internet service')
-    Contract: kontrak berlangganan customer (categorical: 'Month-to-month', 'One year', 'Two year')
-    PaperlessBilling: apakah customer menggunakan paperless billing atau tidak (categorical: 'Yes', 'No')
-    PaymentMethod: metode pembayaran yang digunakan oleh customer (categorical: 'Electronic check', 'Mailed check', 'Bank transfer (automatic)', 'Credit card (automatic)')
-    MonthlyCharges: tagihan per bulan dari customer (numeric)
-    TotalCharges: tagihan total dari customer (numeric)
+    customerID: customer identity number (categorical)
+    gender : Whether the customer is a male or a female (categorical: 'Male', 'Female')
+    SeniorCitizen : Whether the customer is a senior citizen or not (numeric: 0, 1)
+    Partner : Whether the customer has a partner or not (categorical: 'Yes', 'No')
+    Dependents: Whether the customer has dependents or not (categorical: 'Yes', 'No')
+    tenure: Number of months the customer has stayed with the company (numeric)
+    PhoneService: Whether the customer has a phone service or not (categorical: 'Yes', 'No')
+    MultipleLines: Whether the customer has multiple lines or not (categorical: 'Yes', 'No', 'No phone service')
+    InternetService: Customer’s internet service provider (categorical: 'DSL', 'Fiber optic', 'No')
+    OnlineSecurity: Whether the customer has online security or not (categorical: 'Yes', 'No', 'No internet service')
+    OnlineBackup: Whether the customer has online backup or not (categorical: 'Yes', 'No', 'No internet service')
+    DeviceProtection: Whether the customer has device protection or not (categorical: 'Yes', 'No', 'No internet service')
+    TechSupport: Whether the customer has tech support or not (categorical: 'Yes', 'No', 'No internet service')
+    StreamingTV: Whether the customer has streaming TV or not (categorical: 'Yes', 'No', 'No internet service')
+    StreamingMovies: Whether the customer has streaming movies or not (categorical: 'Yes', 'No', 'No internet service')
+    Contract: The contract term of the customer (categorical: 'Month-to-month', 'One year', 'Two year')
+    PaperlessBilling: Whether the customer has paperless billing or not (categorical: 'Yes', 'No')
+    PaymentMethod: The customer’s payment method (categorical: 'Electronic check', 'Mailed check', 'Bank transfer (automatic)', 'Credit card (automatic)')
+    MonthlyCharges: The amount charged to the customer monthly (numeric)
+    TotalCharges: The total amount charged to the customer (numeric)
     
-Informasi target:
+Target Information:
 
-    Churn: apakah customer akan melakukan churn atau tidak (categorical: 'Yes', 'No')
+    Churn: Whether the customer churned or not (categorical: 'Yes', 'No')
     
-Tahapan Pengerjaan:
-1. Melakukan Data Cleaning dan Preprocessing
-2. Membuat visualisasi dataset
-3. Mencari Model Machine Learning yang paling baik
-4. Membuat dashboard menggunakan model machine learning yang sudah dipilih agar user bisa menginput data customernya dan melakukan prediksi
+Final Project working step:
+1. Data Cleaning dan Preprocessing
+2. Data Visualization
+3. Choose best model
+4. create a web application from a local host based on the model that has been selected to predict whether a customer will churn or not
 
-Model akhir yang digunakan adalah Random Forest Classifier
+Final model is Random Forest Classifier
 ---
 HOME PAGE
 ![](https://github.com/sirnaufal/Final-Project/blob/main/image/home.png)
