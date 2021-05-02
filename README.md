@@ -51,7 +51,7 @@ Final Project working step:
 1. Data Cleaning dan Preprocessing
 2. Data Visualization
 3. Choose best model
-4. create a web application from a local host based on the model that has been selected to predict whether a customer will churn or not
+4. Create a web application from a local host based on the model that has been selected to predict whether a customer will churn or not
 
 Final model is Random Forest Classifier
 ---
