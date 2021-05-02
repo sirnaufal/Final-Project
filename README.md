@@ -1,17 +1,16 @@
 # Purwadhika Data Science and Machine Learning Final Project - Predict Customer Churn
 
-Nama : Muhammad Naufal Luthfi
+Name : Muhammad Naufal Luthfi
 
-Deskripsi Final Project
+Final Project Description
 --- 
-Sebuah perusahaan telco sedang mendapat masalah yaitu banyak dari customernya yang churn. Oleh karenanya, perusahaan tersebut ingin mencari cara untuk menyelesaikan masalah tersebut dengan menggunakan algoritma machine learning.
-Final Project ini bertujuan untuk memprediksi apakah customer perusahaan telco tersebut akan melakukan churn atau tidak.
+Churn is a condition where a customer stops using a product or service. A telco company has a problem because many of its customers are churning out. Therefore, the company wanted to find a way to solve this problem using machine learning algorithms. 
 
 Goal Final Project
 --- 
-Membuat model machine learning yang dapat memprediksi minimal 80 persen customer yang akan churn dan membuat sebuah web aplikasi dari local host berdasarkan model yang sudah dipilih untuk memprediksi apakah seorang customer akan melakukan churn atau tidak.
+Create a machine learning model that can predict at least 80 percent of customers who will churn and create a web application from a local host based on the model that has been selected to predict whether a customer will churn or not 
 
-Dataset yang digunakan
+Dataset
 --- 
 Dataset: Telecom-Customer_Churn
 
@@ -19,7 +18,7 @@ Source : [kaggle](https://www.kaggle.com/lampubhutia/telecomcustomer-churn)
 
 ![](https://github.com/sirnaufal/Final-Project/blob/main/image/kaggle.png)
 
-Dataset yang digunakan berasal dari kaggle yang diambil dari IBM Sample Dataset. Masing-masing baris pada dataset mewakili setiap customer dan masing-masing kolom pada dataset berisi informasi tertentu dari tiap customer. Berikut merupakan penjelasan dari tiap kolom pada dataset.
+Dataset for this project comes from kaggle taken from the IBM Sample Dataset. Each row in the dataset represents each customer and each column in the dataset contains specific information from each customer.
 
 Informasi Fitur:
 
