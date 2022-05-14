@@ -6,7 +6,7 @@ Final Project Description
 --- 
 Churn is a condition where a customer stops using a product or service. A telco company has a problem because many of its customers are churning out. Therefore, the company wanted to find a way to solve this problem using machine learning algorithms. 
 
-Goal Final Project
+Final Project Goal
 --- 
 Create a machine learning model that can predict at least 80 percent of customers who will churn and create a web application from a local host based on the model that has been selected to predict whether a customer will churn or not 
 
